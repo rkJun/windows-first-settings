@@ -17,5 +17,4 @@ Windows 7 first settings of my dev style
 - Sublime Text [link](http://www.sublimetext.com/)
 
 #### Java IDE
-- IntelliJ IDEA [linl](https://www.jetbrains.com/idea/)
-- 
+- IntelliJ IDEA [link](https://www.jetbrains.com/idea/)
