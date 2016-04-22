@@ -18,3 +18,7 @@ Windows 7 first settings of my dev style
 
 #### Java IDE
 - IntelliJ IDEA [link](https://www.jetbrains.com/idea/)
+
+#### DB Client
+- MySQL : HeidiSQL [link](http://www.heidisql.com/)
+
