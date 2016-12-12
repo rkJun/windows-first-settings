@@ -1,7 +1,7 @@
 # windows-first-settings
-Windows 7 first settings of my dev style
+Windows 10 first settings of my dev style
 
-회사에서 사용하는 Windows 7 개발환경 및 프로그램
+회사에서 사용하는 Windows 10 개발환경 및 프로그램
 
 ## 제어판
 
