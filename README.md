@@ -16,7 +16,12 @@ Windows 7 first settings of my dev style
 #### Editors
 - Sublime Text [link](http://www.sublimetext.com/)
 
-#### Java IDE
+#### Java
+
+##### JAVA SDK 8
+- JDK 8 [link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+##### IDE
 - IntelliJ IDEA [link](https://www.jetbrains.com/idea/)
 
 #### DB Client
