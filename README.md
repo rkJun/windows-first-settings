@@ -31,6 +31,8 @@ Windows 10 first settings of my dev style
 
 #### ETC
   - Dropbox ```choco install dropbox -y```
+  - ConsoleZ ```choco install consolez -y```
+
 
 ## 제어판
 
