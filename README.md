@@ -19,8 +19,15 @@ Windows 10 first settings of my dev style
 #### Java
   - JDK 8 ```choco install jdk8 -y```
 
+#### Nodejs
+  - Nodejs ```choco install nodejs -y```
+
+#### Ruby
+  - Ruby ```choco install ruby -y```
+
 #### Editor
   - VIM ```choco install vim -y```
+  - Sublime Text 3 ```choco install sublimetext3 -y```
 
 #### ETC
   - Dropbox ```choco install dropbox -y```
