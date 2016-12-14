@@ -10,8 +10,9 @@ Windows 10 first settings of my dev style
 ### 설치할 패키지들 
 - Google Chrome ```choco install googlechrome -y```
 - Firefox ```choco install firefox -y```
-- Dropbox ```choco install dropbox -y```
 
+- Dropbox ```choco install dropbox -y```
+- git ```choco install git -y```
 - JDK 8 ```choco install jdk8 -y```
 
 ## 제어판
