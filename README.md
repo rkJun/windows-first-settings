@@ -11,7 +11,7 @@ Windows 10 first settings of my dev style
 - Google Chrome ```choco install googlechrome```
 - Dropbox ```choco install dropbox```
 
-
+- JDK 8 ```choco install jdk8```
 
 ## 제어판
 
