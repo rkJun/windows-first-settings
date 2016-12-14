@@ -8,10 +8,11 @@ Windows 10 first settings of my dev style
 패키지 커맨드 설치를 가능하게 해 줌 [link](https://chocolatey.org/)
 
 ### 설치할 패키지들 
-- Google Chrome ```choco install googlechrome```
-- Dropbox ```choco install dropbox```
+- Google Chrome ```choco install googlechrome -y```
+- Firefox ```choco install firefox -y```
+- Dropbox ```choco install dropbox -y```
 
-- JDK 8 ```choco install jdk8```
+- JDK 8 ```choco install jdk8 -y```
 
 ## 제어판
 
