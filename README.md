@@ -3,6 +3,15 @@ Windows 10 first settings of my dev style
 
 회사에서 사용하는 Windows 10 개발환경 및 프로그램
 
+## Chocolatey - Package Manager for Windows
+
+패키지 커맨드 설치를 가능하게 해 줌 [link](https://chocolatey.org/)
+
+### 설치할 패키지들 
+- Google Chrome ```choco install googlechrome```
+
+
+
 ## 제어판
 
 ### 프로그램 목록
