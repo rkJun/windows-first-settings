@@ -9,6 +9,7 @@ Windows 10 first settings of my dev style
 
 ### 설치할 패키지들 
 - Google Chrome ```choco install googlechrome```
+- Dropbox ```choco install dropbox```
 
 
 
