@@ -25,6 +25,9 @@ Windows 10 first settings of my dev style
 #### Ruby
   - Ruby ```choco install ruby -y```
 
+### Python
+  - Python ```choco install python -y```
+
 #### Editor
   - VIM ```choco install vim -y```
   - Sublime Text 3 ```choco install sublimetext3 -y```
@@ -32,7 +35,9 @@ Windows 10 first settings of my dev style
 #### ETC
   - Dropbox ```choco install dropbox -y```
   - ConsoleZ ```choco install consolez -y```
-
+  - Everything ```choco install everything -y```
+  - cURL ```choco install curl -y```
+  - Process Hacker ```choco install processhacker -y```
 
 ## 제어판
 
@@ -45,17 +50,25 @@ Windows 10 first settings of my dev style
 #### 세벌식 관련
 - 날개셋 한글입력기 [link](http://moogi.new21.org/prg4.html) (세벌식 사용자에겐 필수)
 
-#### Editors
-- Sublime Text [link](http://www.sublimetext.com/)
-
-#### Java
-
-##### JAVA SDK 8
-- JDK 8 [link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-
-##### IDE
+#### IDE
 - IntelliJ IDEA [link](https://www.jetbrains.com/idea/)
+
+#### eXERD
+- eXERD [link](http://ko.exerd.com/)
+
+#### Mactype - A better font rasterizer for Windows. 
+- Mactype [link](https://github.com/snowie2000/mactype)
+
+#### Virtual Machine
+- Virtual Box [link](https://www.virtualbox.org/)
+
+#### Team Viewer
+- Team Viewer [link](https://https://www.teamviewer.com/ko/)
 
 #### DB Client
 - MySQL : HeidiSQL [link](http://www.heidisql.com/)
 
+#### ETC
+- XMouse Button Control (Wheel up/down change like macOS)
+- synergy (remote control)
+- sharpkey (key remapping alt<->super key)
