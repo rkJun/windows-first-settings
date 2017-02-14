@@ -38,7 +38,7 @@ Windows 10 first settings of my dev style
   - Everything ```choco install everything -y```
   - cURL ```choco install curl -y```
   - Process Hacker ```choco install processhacker -y```
-
+  - Wox (Luncher for Windows. macOS의 alfred와 유사) ```choco install wox -y```
 ## 제어판
 
 ### 프로그램 목록
