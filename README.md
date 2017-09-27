@@ -7,7 +7,7 @@ Windows 10 first settings of my dev style
 
 패키지 커맨드 설치를 가능하게 해 줌 [link](https://chocolatey.org/)
 
-### 설치할 패키지들 
+### 설치할 패키지들
 
 #### Browser
   - Google Chrome ```choco install googlechrome -y```
@@ -25,21 +25,26 @@ Windows 10 first settings of my dev style
 #### Ruby
   - Ruby ```choco install ruby -y```
 
-### Python
+#### Python
   - Python ```choco install python -y```
 
 #### Editor
   - VIM ```choco install vim -y```
+  - Atom ```choco install atom -y```
   - Sublime Text 3 ```choco install sublimetext3 -y```
+  - JetBrains Toolbox App ```choco install jetbrainstoolbox -y```
+
+#### Tweak
+  - CCleaner ```choco install ccleaner -y```
+
+### Image Viewer
+  - IrfanView ```choco install irfanview -y```
 
 #### ETC
   - Dropbox ```choco install dropbox -y```
-  - ConsoleZ ```choco install consolez -y```
-  - Everything ```choco install everything -y```
-  - cURL ```choco install curl -y```
   - Process Hacker ```choco install processhacker -y```
-  - Wox (Luncher for Windows. macOS의 alfred와 유사) ```choco install wox -y```
-
+  - Virtual Box ```choco install virtualbox -y```
+  - Vagrant ```choco install vagrant -y```
 
 ## 제어판
 
@@ -47,28 +52,28 @@ Windows 10 first settings of my dev style
 
 #### 파일관리
 - Total Commander (유료) [link](http://www.ghisler.com/)   
-  - 이미지뷰어 IrfanView [link](http://www.irfanview.com/)
 
 #### 세벌식 관련
 - 날개셋 한글입력기 [link](http://moogi.new21.org/prg4.html) (세벌식 사용자에겐 필수)
 
 #### IDE
-- IntelliJ IDEA [link](https://www.jetbrains.com/idea/)
+- ~~~IntelliJ IDEA [link](https://www.jetbrains.com/idea/) ~~~ (JetBrains Toolbox App으로 설치)
 
 #### eXERD
 - eXERD [link](http://ko.exerd.com/)
 
-#### Mactype - A better font rasterizer for Windows. 
+#### Mactype - A better font rasterizer for Windows.
 - Mactype [link](https://github.com/snowie2000/mactype)
-
-#### Virtual Machine
-- Virtual Box [link](https://www.virtualbox.org/)
 
 #### Team Viewer
 - Team Viewer [link](https://https://www.teamviewer.com/ko/)
 
 #### DB Client
-- MySQL : HeidiSQL [link](http://www.heidisql.com/)
+- ~~~MySQL : HeidiSQL [link](http://www.heidisql.com/)~~~
+- DataGrip (JetBrains Toolbox App으로 설치)
+
+#### 압축프로그램
+- 반디집
 
 #### ETC
 - XMouse Button Control (Wheel up/down change like macOS)
