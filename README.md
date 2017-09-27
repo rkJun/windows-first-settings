@@ -57,7 +57,7 @@ Windows 10 first settings of my dev style
 - 날개셋 한글입력기 [link](http://moogi.new21.org/prg4.html) (세벌식 사용자에겐 필수)
 
 #### IDE
-- ~~~IntelliJ IDEA [link](https://www.jetbrains.com/idea/) ~~~ (JetBrains Toolbox App으로 설치)
+- ~~~IntelliJ IDEA [link](https://www.jetbrains.com/idea/)~~~ (JetBrains Toolbox App으로 설치)
 
 #### eXERD
 - eXERD [link](http://ko.exerd.com/)
