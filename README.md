@@ -30,7 +30,7 @@ Windows 10 first settings of my dev style
 
 #### Editor
   - VIM ```choco install vim -y```
-  - Atom ```choco install atom -y```
+  - Visual Studio Code  ```choco install vscode```
   - Sublime Text 3 ```choco install sublimetext3 -y```
   - JetBrains Toolbox App ```choco install jetbrainstoolbox -y```
 
